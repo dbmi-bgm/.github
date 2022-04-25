@@ -18,4 +18,4 @@ The [Clinical Genomics Analysis Platform (CGAP)](https://cgap.hms.harvard.edu) i
 
 - **[cgap-pipeline-main](https://github.com/dbmi-bgm/cgap-pipeline-main)** - Main repository for bioinformatics pipelines and the relevant documentation.
 - **[tibanna](https://github.com/4dn-dcic/tibanna)** - Software package that runs pipelines on Amazon Web Services (AWS).
-- [magma](https://github.com/dbmi-bgm/magma) - Software package to manage meta-workflows automation and execution.
+- **[magma](https://github.com/dbmi-bgm/magma)** - Software package to manage meta-workflows automation and execution.
