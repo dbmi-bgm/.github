@@ -22,6 +22,13 @@ The [Clinical Genome Analysis Platform (CGAP)](https://cgap.hms.harvard.edu) is 
 - [snovault](https://github.com/4dn-dcic/snovault) - Contains abstractions for communicating with our databases, including PostgreSQL and ElasticSearch. A major dependency of CGAP Portal. Originally this was forked from ENCODE Project in ~2015.
 - [react-workflow-viz](https://github.com/4dn-dcic/react-workflow-viz) - A React component/library for visualizing workflow runs.
 
+### Visualization
+
+- [higlass-sv](https://github.com/dbmi-bgm/higlass-sv) - HiGlass plugin track to visualize structural variants.
+- [higlass-general-vcf](https://github.com/dbmi-bgm/higlass-general-vcf) - HiGlass plugin track that can visualize general VCF files.
+- [higlass-cohort](https://github.com/dbmi-bgm/higlass-cohort) - HiGlass plugin track that visualizes cohort data.
+- [cgap-higlass-server](https://github.com/dbmi-bgm/cgap-higlass-server) - Server component for HiGlass that manages and serves tiled data.
+
 ### Applications
 - [SubmitCGAP](https://github.com/dbmi-bgm/SubmitCGAP) - Command-line tools for submitting and uploading files to CGAP.
 
