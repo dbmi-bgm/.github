@@ -11,6 +11,7 @@ The [Clinical Genome Analysis Platform (CGAP)](https://cgap.hms.harvard.edu) is 
 
 
 - **[cgap-pipeline-main](https://github.com/dbmi-bgm/cgap-pipeline-main)** - Main repository for bioinformatics pipelines and the relevant documentation.
+- **[granite](https://github.com/dbmi-bgm/granite)** - Software package to work with genomic variants. The package provides inheritance mode callers and utilities to filter and refine variants called by other methods in VCF format.
 - **[tibanna](https://github.com/4dn-dcic/tibanna)** - Software package that runs pipelines on Amazon Web Services (AWS).
 - **[magma](https://github.com/dbmi-bgm/magma)** - Software package to manage meta-workflows automation and execution.
 
