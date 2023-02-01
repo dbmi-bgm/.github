@@ -1,8 +1,8 @@
 <img src="https://github.com/dbmi-bgm/cgap-pipeline/blob/master/docs/images/cgap_logo.png" width="200" align="right">
 
-# Clinical Genome Analysis Platform
+# Computational Genome Analysis Platform
 
-The [Clinical Genome Analysis Platform (CGAP)](https://cgap.hms.harvard.edu) is an open-source platform developed primarily by Harvard's Department of Biomedical Informatics. CGAP consists of multiple repositories - the codebase of the portal itself, as well as repositories containing code which runs and defines the genomics pipelines, monitoring, and various utilities. Want to contribute to our open source community efforts? Contact us at cgap-support@hms-dbmi.atlassian.net.
+The [Computational Genome Analysis Platform (CGAP)](https://cgap.hms.harvard.edu) is an open-source platform developed primarily by Harvard's Department of Biomedical Informatics. CGAP consists of multiple repositories - the codebase of the portal itself, as well as repositories containing code which runs and defines the genomics pipelines, monitoring, and various utilities. Want to contribute to our open source community efforts? Contact us at cgap-support@hms-dbmi.atlassian.net.
 
 ## Repositories
 
