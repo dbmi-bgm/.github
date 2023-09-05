@@ -33,6 +33,7 @@ The [Computational Genome Analysis Platform (CGAP)](https://cgap.hms.harvard.edu
 ### Applications
 - [SubmitCGAP](https://github.com/dbmi-bgm/SubmitCGAP) - Command-line tools for submitting and uploading files to CGAP.
 
-----
+## Administrative
 
-[Legal Notices](https://cgap.hms.harvard.edu/legal)
+- [Governance](https://github.com/dbmi-bgm/cgap-governance) - Repository of governance, legal and policy information for our projects.
+- [Legal Notices](https://cgap.hms.harvard.edu/legal) - Legal notices for portal users.
